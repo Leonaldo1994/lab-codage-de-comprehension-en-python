@@ -8,7 +8,7 @@ def exo_04(liste):
   # Ajouter le code permettant de convertir
   # la liste en ensemble (set)
   # pensez au (set comprehension)
-  ensemble = ??? 
+  ensemble = [ n for n in liste] 
   return sorted(ensemble)
 
 def main():
