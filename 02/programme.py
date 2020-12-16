@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: CollegeBoreal
+@author: Leonaldo1994
 """
 
-def ???:
-  return ???
+def exo_02():
+  return ("bonjour")
 
 def main():
   print( exo_02() )
