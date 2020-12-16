@@ -5,7 +5,7 @@
 """
 
 def exo_03(liste):
-  pairs = [ n+n for in range(8, 24, 56, 98) ] 
+  pairs = [l for l in liste if l % 2 == 0 ] 
   return sorted(pairs)
 
 def main():
